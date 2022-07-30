@@ -1,4 +1,4 @@
-# Landing Page
+# Landing Page of street-style
 
 My 1st Project in the HTML & CSS Assignment.
 
@@ -11,4 +11,4 @@ This project helped me to Css positions a lot better.
 
 ![Project 1](./assets/p1.png)
 
-[Live Demo](https://street-stylelp.netlify.app/)
+[Live Demo](https://street-style-landing-page-femas.netlify.app/)
